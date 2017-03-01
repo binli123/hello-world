@@ -24,12 +24,18 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Language.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="ConsoleApplication Github Hello.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Language.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
